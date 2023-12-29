@@ -65,14 +65,14 @@
   </url>
   
   <url>
-    <loc>https://coisini2133.github.io/tags/index.html</loc>
+    <loc>https://coisini2133.github.io/ticktack/index.html</loc>
     
     <lastmod>2023-12-15</lastmod>
     
   </url>
   
   <url>
-    <loc>https://coisini2133.github.io/ticktack/index.html</loc>
+    <loc>https://coisini2133.github.io/tags/index.html</loc>
     
     <lastmod>2023-12-15</lastmod>
     
@@ -100,13 +100,6 @@
   </url>
   
   <url>
-    <loc>https://coisini2133.github.io/record/index.html</loc>
-    
-    <lastmod>2023-12-15</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://coisini2133.github.io/project/index.html</loc>
     
     <lastmod>2023-12-15</lastmod>
@@ -115,6 +108,13 @@
   
   <url>
     <loc>https://coisini2133.github.io/qingdan/index.html</loc>
+    
+    <lastmod>2023-12-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://coisini2133.github.io/record/index.html</loc>
     
     <lastmod>2023-12-15</lastmod>
     
@@ -135,14 +135,14 @@
   </url>
   
   <url>
-    <loc>https://coisini2133.github.io/essay/index.html</loc>
+    <loc>https://coisini2133.github.io/friends/index.html</loc>
     
     <lastmod>2023-12-15</lastmod>
     
   </url>
   
   <url>
-    <loc>https://coisini2133.github.io/friends/index.html</loc>
+    <loc>https://coisini2133.github.io/essay/index.html</loc>
     
     <lastmod>2023-12-15</lastmod>
     
@@ -207,7 +207,7 @@
 
   
   <url>
-    <loc>https://coisini2133.github.io/tags/%E4%BA%BA%E9%97%B4/</loc>
+    <loc>https://coisini2133.github.io/tags/%E9%98%85%E8%AF%BB/</loc>
     <lastmod>2023-12-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -221,7 +221,7 @@
   </url>
   
   <url>
-    <loc>https://coisini2133.github.io/tags/%E9%98%85%E8%AF%BB/</loc>
+    <loc>https://coisini2133.github.io/tags/%E4%BA%BA%E9%97%B4/</loc>
     <lastmod>2023-12-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -237,7 +237,7 @@
 
   
   <url>
-    <loc>https://coisini2133.github.io/categories/%E8%AE%A8%E8%AE%BA/</loc>
+    <loc>https://coisini2133.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2023-12-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -251,7 +251,7 @@
   </url>
   
   <url>
-    <loc>https://coisini2133.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://coisini2133.github.io/categories/%E8%AE%A8%E8%AE%BA/</loc>
     <lastmod>2023-12-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
