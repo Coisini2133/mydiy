@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://coisini2133.github.io/gallery/%E9%AC%BC%E6%80%AA/index.html</loc>
+    
+    <lastmod>2024-01-08</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://coisini2133.github.io/posts/f0d9.html</loc>
     
     <lastmod>2024-01-08</lastmod>
@@ -58,13 +65,6 @@
   </url>
   
   <url>
-    <loc>https://coisini2133.github.io/gallery/%E8%BF%99%E4%B8%AA%E6%9D%80%E6%89%8B%E4%B8%8D%E5%A4%AA%E5%86%B7/images/index.html</loc>
-    
-    <lastmod>2023-12-17</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://coisini2133.github.io/gallery/index.html</loc>
     
     <lastmod>2023-12-16</lastmod>
@@ -100,20 +100,6 @@
   </url>
   
   <url>
-    <loc>https://coisini2133.github.io/musics/index.html</loc>
-    
-    <lastmod>2023-12-15</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://coisini2133.github.io/qingdan/index.html</loc>
-    
-    <lastmod>2023-12-15</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://coisini2133.github.io/project/index.html</loc>
     
     <lastmod>2023-12-15</lastmod>
@@ -121,7 +107,21 @@
   </url>
   
   <url>
+    <loc>https://coisini2133.github.io/musics/index.html</loc>
+    
+    <lastmod>2023-12-15</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://coisini2133.github.io/record/index.html</loc>
+    
+    <lastmod>2023-12-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://coisini2133.github.io/qingdan/index.html</loc>
     
     <lastmod>2023-12-15</lastmod>
     
@@ -163,14 +163,14 @@
   </url>
   
   <url>
-    <loc>https://coisini2133.github.io/collection/index.html</loc>
+    <loc>https://coisini2133.github.io/contact/index.html</loc>
     
     <lastmod>2023-12-15</lastmod>
     
   </url>
   
   <url>
-    <loc>https://coisini2133.github.io/contact/index.html</loc>
+    <loc>https://coisini2133.github.io/collection/index.html</loc>
     
     <lastmod>2023-12-15</lastmod>
     
@@ -214,14 +214,14 @@
 
   
   <url>
-    <loc>https://coisini2133.github.io/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <loc>https://coisini2133.github.io/tags/%E9%98%85%E8%AF%BB/</loc>
     <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://coisini2133.github.io/tags/%E9%98%85%E8%AF%BB/</loc>
+    <loc>https://coisini2133.github.io/tags/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -244,14 +244,14 @@
 
   
   <url>
-    <loc>https://coisini2133.github.io/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <loc>https://coisini2133.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://coisini2133.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://coisini2133.github.io/categories/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2024-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
