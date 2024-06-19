@@ -3770,7 +3770,7 @@ hr:hover::before{
     font-size: 25px;
     text-align: center;
     margin: 0 auto;
-    font-family: 华文行楷;
+    font-family: ZhaiZaiJiaFenTiaoTian-2;
 }
 .poem-wrap p {
     width: 70%;
@@ -3782,7 +3782,7 @@ hr:hover::before{
 .poem-wrap p:nth-of-type(2) {
     font-size: 18px;
     margin: 15px auto;
-    font-family: 华文行楷;
+    font-family: ZhaiZaiJiaFenTiaoTian-2;
 }
 body.dark .notice {
     background: 0 0;
