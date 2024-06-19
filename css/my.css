@@ -59,7 +59,7 @@
 
 @font-face{
     font-family: 'ZhaiZaiJiaFenTiaoTian-2.ttf';
-    src: url('../fonts/myFont.ttf');
+    src: url('fonts/myFont.ttf');
 }
 
 body{
