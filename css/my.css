@@ -58,10 +58,10 @@
 }
 
 @font-face{
-    font-family: 'ZhaiZaiJiaFenTiaoTian-2.ttf';
+    font-family: 'ZhaiZaiJiaFenTiaoTian-2';
     src: url('fonts/ZhaiZaiJiaFenTiaoTian-2.ttf');
 }
 
 body{
-    font-family: 'ZhaiZaiJiaFenTiaoTian-2.ttf';
+    font-family: 'ZhaiZaiJiaFenTiaoTian-2';
 }
